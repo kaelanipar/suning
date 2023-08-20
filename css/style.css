@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 10rem;
+    background-color: #e2edff;
+}
+
+#project {
+    background-color: #e2edff;
+}
+
+footer .social {
+    padding: 1rem 0;
+  }
+  
+  footer .social a {
+    margin: 1rem;
+  }
+  
+  footer .social a:hover,
+  footer .links a:hover {
+    color: var(--bg);
+  }
