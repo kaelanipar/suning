@@ -19,3 +19,7 @@ footer .social {
   footer .links a:hover {
     color: var(--bg);
   }
+
+.icon-25 { font-size: 25px; }
+.icon-28 { font-size: 28px; }
+.icon-30 { font-size: 30px; }
